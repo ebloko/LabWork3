@@ -1,0 +1,7 @@
+C:\Temp\ispp01\MDK01.01\LabWork3\Task1\bin\Debug\Task1.exe.config
+C:\Temp\ispp01\MDK01.01\LabWork3\Task1\bin\Debug\Task1.exe
+C:\Temp\ispp01\MDK01.01\LabWork3\Task1\bin\Debug\Task1.pdb
+C:\Temp\ispp01\MDK01.01\LabWork3\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+C:\Temp\ispp01\MDK01.01\LabWork3\Task1\obj\Debug\Task1.exe
+C:\Temp\ispp01\MDK01.01\LabWork3\Task1\obj\Debug\Task1.pdb
+C:\Temp\ispp01\MDK01.01\LabWork3\Task1\obj\Debug\Task1.csproj.AssemblyReference.cache
